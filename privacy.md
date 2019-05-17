@@ -4,7 +4,7 @@ Rolling ABC Game Studio (“we”, “us”, “our”) is committed to maintain
 
 ## 1 Effective date and update
 
-Effective date of this privacy policy：2018/01/01
+Effective date of this privacy policy：2019/05/15
 
 ## 2 Information we will collect and trace 
 
@@ -34,7 +34,7 @@ When you post messages on the help forums or message boards of our Site, the inf
 
 ### 2.3 Information Collected from You About Others.
 
-If you decide to invite a third party to create an Account, we will collect your and the third party's names and e-mail addresses in order to send an e-mail and follow up with the third party. You or the third party may contact us at opensecapps@gmail.com to request the removal of this information from our database.
+If you decide to invite a third party to create an Account, we will collect your and the third party's names and e-mail addresses in order to send an e-mail and follow up with the third party. You or the third party may contact us at rolling.abc@outlook.com to request the removal of this information from our database.
 
 ## 3 The purpose of collecting information functions:
 
