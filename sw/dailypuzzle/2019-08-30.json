@@ -1,6 +1,9 @@
 {
   "chapter": 7,
   "level": 35,
+  "background": "6.jpg",
+  "motoo": "This is an motoo",
+  "author": "author001",
   "answer": "promise|dote|rose|sunset",
   "colume": 9,
   "row": 16,
