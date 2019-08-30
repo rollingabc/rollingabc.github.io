@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "ThemeList": [
+    {
+      "ThemeName": "Beach",
+      "PicName": "Beach",
+      "UnlockLevel": 0,
+      "Price": 0,
+      "VersionCode": 1
+    },
+    {
+      "ThemeName": "Stamen",
+      "PicName": "Stamen",
+      "UnlockLevel": 0,
+      "Price": 0,
+      "VersionCode": 1
+    },
+    {
+      "ThemeName": "Astronaut",
+      "PicName": "Astronaut",
+      "UnlockLevel": 50,
+      "Price": 200,
+      "VersionCode": 1
+    },
+    {
+      "ThemeName": "Flower",
+      "PicName": "Flower",
+      "UnlockLevel": 100,
+      "Price": 500,
+      "VersionCode": 1
+    },
+    {
+      "ThemeName": "Alley",
+      "PicName": "Alley",
+      "UnlockLevel": 150,
+      "Price": 500,
+      "VersionCode": 1
+    },
+    {
+      "ThemeName": "Sky",
+      "PicName": "Sky",
+      "UnlockLevel": 200,
+      "Price": 500,
+      "VersionCode": 1
+    },
+    {
+      "ThemeName": "Hummingbird",
+      "PicName": "Hummingbird",
+      "UnlockLevel": 300,
+      "Price": 1000,
+      "VersionCode": 1
+    },
+    {
+      "ThemeName": "Maple",
+      "PicName": "Maple",
+      "UnlockLevel": 400,
+      "Price": 1000,
+      "VersionCode": 1
+    },
+    {
+      "ThemeName": "Jellfish",
+      "PicName": "Jellfish",
+      "UnlockLevel": 500,
+      "Price": 1000,
+      "VersionCode": 1
+    },
+    {
+      "ThemeName": "Ikebana",
+      "PicName": "Ikebana",
+      "UnlockLevel": 500,
+      "Price": 1000,
+      "VersionCode": 1
+    },
+    {
+      "ThemeName": "MilkWay",
+      "PicName": "MilkWay",
+      "UnlockLevel": 600,
+      "Price": 1000,
+      "VersionCode": 1
+    }
+  ]
+}
