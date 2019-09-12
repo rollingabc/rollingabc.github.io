@@ -1,12 +1,15 @@
 {
   "chapter": 150,
   "level": 750,
+  "background": "22.png",
+  "motoo": "She walks in beauty, like the night of cloudless climes and starry skies.",
+  "author": "Poet, George Gordon Byron",
   "answer": "beauty|like|night|starry",
+  "theme": "famous quote",
+  "targetWord": 4,
   "colume": 9,
   "row": 16,
   "time": 40,
-  "theme": "famous quote",
-  "targetWord": 4,
   "targetLetter": 0,
   "targetType": 0,
   "map": [

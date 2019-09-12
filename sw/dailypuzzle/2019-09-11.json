@@ -1,12 +1,15 @@
 {
   "chapter": 150,
   "level": 746,
+  "background": "27.png",
+  "motoo": "The secret of life, though, is to fall seven times and to get up eight times.",
+  "author": "Author, Paulo Coelho",
   "answer": "secret|life|fall|times",
+  "theme": "famous quote",
+  "targetWord": 4,
   "colume": 9,
   "row": 16,
   "time": 40,
-  "theme": "famous quote",
-  "targetWord": 4,
   "targetLetter": 0,
   "targetType": 0,
   "map": [
