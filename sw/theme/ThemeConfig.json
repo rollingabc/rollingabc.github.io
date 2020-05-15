@@ -3,67 +3,78 @@
     "ThemeList": [
         {
             "ThemeName": "Beach",
-            "PictureFile": "Beach",
+            "Thumbnail": "thumb_Beach.png",
+            "Picture": "Beach.jpg",
             "UnlockLevel": 0,
             "Price": 0
         },
         {
             "ThemeName": "Stamen",
-            "PictureFile": "Stamen",
+            "Thumbnail": "thumb_Stamen.png",
+            "Picture": "Stamen.jpg",
             "UnlockLevel": 0,
             "Price": 0
         },
         {
             "ThemeName": "Astronaut",
-            "PictureFile": "Astronaut",
+            "Thumbnail": "thumb_Astronaut.png",
+            "Picture": "Astronaut.jpg",
             "UnlockLevel": 50,
             "Price": 200
         },
         {
             "ThemeName": "Flower",
-            "PictureFile": "Flower",
+            "Thumbnail": "thumb_Flower.png",
+            "Picture": "Flower.jpg",
             "UnlockLevel": 100,
             "Price": 500
         },
         {
             "ThemeName": "Alley",
-            "PictureFile": "Alley",
+            "Thumbnail": "thumb_Alley.png",
+            "Picture": "Alley.jpg",
             "UnlockLevel": 150,
             "Price": 500
         },
         {
             "ThemeName": "Sky",
-            "PictureFile": "Sky",
+            "Thumbnail": "thumb_Sky.png",
+            "Picture": "Sky.jpg",
             "UnlockLevel": 200,
             "Price": 500
         },
         {
             "ThemeName": "Hummingbird",
-            "PictureFile": "Hummingbird",
+            "Thumbnail": "thumb_Hummingbird.png",
+            "Picture": "Hummingbird.jpg",
             "UnlockLevel": 300,
             "Price": 1000
         },
         {
             "ThemeName": "Maple",
-            "PictureFile": "Maple",
+            "Thumbnail": "thumb_Maple.png",
+            "Picture": "Maple.jpg",
             "UnlockLevel": 400,
             "Price": 1000
         },
         {
             "ThemeName": "Jellfish",
-            "PictureFile": "Jellfish",
+            "Thumbnail": "thumb_Jellfish.png",
+            "Picture": "Jellfish.jpg",
             "UnlockLevel": 500,
             "Price": 1000
         },
         {
             "ThemeName": "Ikebana",
-            "PictureFile": "Ikebana",
+            "Thumbnail": "thumb_Ikebana.png",
+            "Picture": "Ikebana.jpg",
             "UnlockLevel": 500,
             "Price": 1000
         },
         {
             "ThemeName": "MilkWay",
-            "PictureFile": "MilkWay",
+            "Thumbnail": "thumb_MilkWay.png",
+            "Picture": "MilkWay.jpg",
             "UnlockLevel": 600,
             "Price": 1000
         }
