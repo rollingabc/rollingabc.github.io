@@ -1,11 +1,11 @@
 {
     "chapter": 0,
     "level": 0,
-    "background": "35.png",
+    "background": "12-21.png",
     "motto": "Once we accept our limits, we go beyond them.",
     "author": "Physicist, Albert Einstein",
     "answer": "once|beyond|limit|accept",
-    "theme": "2019-12-21",
+    "theme": "12-21",
     "targetWord": 4,
     "column": 9,
     "row": 16,

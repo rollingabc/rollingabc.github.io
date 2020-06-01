@@ -1,11 +1,11 @@
 {
     "chapter": 0,
     "level": 0,
-    "background": "17.png",
+    "background": "10-20.png",
     "motto": "There is a pleasure in the pathless woods; there is a rapture on the lonely shore.",
     "author": "Poet, George Gordon Byron",
     "answer": "pathless|rapture|lonely|pleasure|shore",
-    "theme": "2019-10-20",
+    "theme": "10-20",
     "targetWord": 5,
     "column": 9,
     "row": 16,

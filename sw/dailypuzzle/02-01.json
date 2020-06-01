@@ -1,11 +1,11 @@
 {
     "chapter": 0,
     "level": 0,
-    "background": "20200201.png",
+    "background": "02-01.png",
     "motto": "An answer that was right the first time may not be right again the second.",
     "author": "Writer, Italo Calvino",
     "answer": "answer|again|second|first",
-    "theme": "2020-02-01",
+    "theme": "02-01",
     "targetWord": 4,
     "column": 9,
     "row": 16,

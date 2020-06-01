@@ -1,11 +1,11 @@
 {
     "chapter": 0,
     "level": 0,
-    "background": "24.png",
+    "background": "12-17.png",
     "motto": "The longest way must have its close - the gloomiest night will wear on to a morning.",
     "author": "Author, Harriet Beecher Stowe",
     "answer": "morning|night|longest|wear|close",
-    "theme": "2019-12-17",
+    "theme": "12-17",
     "targetWord": 5,
     "column": 9,
     "row": 16,

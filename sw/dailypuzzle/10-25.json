@@ -1,11 +1,11 @@
 {
     "chapter": 0,
     "level": 0,
-    "background": "30.png",
+    "background": "10-25.png",
     "motto": "The best way to capture moments is to pay attention.",
     "author": "Author, Jon Kabat-Zinn",
     "answer": "moment|attention|capture|best",
-    "theme": "2019-10-25",
+    "theme": "10-25",
     "targetWord": 4,
     "column": 9,
     "row": 16,

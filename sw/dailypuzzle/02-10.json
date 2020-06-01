@@ -1,11 +1,11 @@
 {
     "chapter": 0,
     "level": 0,
-    "background": "20200210.png",
+    "background": "02-10.png",
     "motto": "We should call every truth false which was not accompanied by at least one laugh.",
     "author": "Philosopher, Friedrich Nietzsche",
     "answer": "truth|false|least|laugh|should",
-    "theme": "2020-02-10",
+    "theme": "02-10",
     "targetWord": 5,
     "column": 7,
     "row": 14,

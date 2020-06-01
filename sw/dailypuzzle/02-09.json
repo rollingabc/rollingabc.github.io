@@ -1,11 +1,11 @@
 {
     "chapter": 0,
     "level": 0,
-    "background": "20200209.png",
+    "background": "02-09.png",
     "motto": "Don't tell me the moon is shining; show me the glint of light on broken glass.",
     "author": "Author, Anton Chekhov",
     "answer": "glass|shining|broken|tell|glint",
-    "theme": "2020-02-09",
+    "theme": "02-09",
     "targetWord": 5,
     "column": 9,
     "row": 16,

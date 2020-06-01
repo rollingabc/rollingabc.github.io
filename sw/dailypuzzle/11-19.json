@@ -1,11 +1,11 @@
 {
     "chapter": 0,
     "level": 0,
-    "background": "34.png",
+    "background": "11-19.png",
     "motto": "You can't stop the waves, but you can learn to surf.",
     "author": "Author, Jon Kabat-Zinn",
     "answer": "learn|wave|surf|stop",
-    "theme": "2019-11-19",
+    "theme": "11-19",
     "targetWord": 4,
     "column": 9,
     "row": 16,

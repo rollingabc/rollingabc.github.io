@@ -1,11 +1,11 @@
 {
     "chapter": 0,
     "level": 0,
-    "background": "20200125.png",
+    "background": "01-25.png",
     "motto": "All things excellent are as difficult as they are rare.",
     "author": "Philosopher, Baruch Spinoza",
     "answer": "thing|rare|excellent|difficult",
-    "theme": "2020-01-25",
+    "theme": "01-25",
     "targetWord": 4,
     "column": 9,
     "row": 16,

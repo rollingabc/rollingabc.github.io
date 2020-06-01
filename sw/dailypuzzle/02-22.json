@@ -1,11 +1,11 @@
 {
     "chapter": 0,
     "level": 0,
-    "background": "20200222.png",
+    "background": "02-22.png",
     "motto": "Music expresses that which cannot be put into words and that which cannot remain silent.",
     "author": "Author, Victor Hugo",
     "answer": "music|express|remain|silent|word",
-    "theme": "2020-02-22",
+    "theme": "02-22",
     "targetWord": 5,
     "column": 9,
     "row": 16,

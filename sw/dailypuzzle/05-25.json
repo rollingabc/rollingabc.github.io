@@ -1,11 +1,11 @@
 {
     "chapter": 0,
     "level": 0,
-    "background": "20200525.png",
+    "background": "05-25.png",
     "motto": "I make a great noise of rustling all day, like rabbit and deer running away.",
     "author": "Poet, Robert Frost",
     "answer": "deer|great|rabbit|noise|rustling",
-    "theme": "2020-05-25",
+    "theme": "05-25",
     "targetWord": 5,
     "column": 9,
     "row": 16,

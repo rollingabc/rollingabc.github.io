@@ -1,11 +1,11 @@
 {
     "chapter": 0,
     "level": 0,
-    "background": "20200121.png",
+    "background": "01-21.png",
     "motto": "Music is the melody whose text is the world.",
     "author": "Philosopher, Authur Schopenhauer",
     "answer": "music|melody|text|whose",
-    "theme": "2020-01-21",
+    "theme": "01-21",
     "targetWord": 4,
     "column": 9,
     "row": 16,

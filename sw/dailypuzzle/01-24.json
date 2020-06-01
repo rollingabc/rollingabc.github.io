@@ -1,11 +1,11 @@
 {
     "chapter": 0,
     "level": 0,
-    "background": "20200124.png",
+    "background": "01-24.png",
     "motto": "I prefer the color green. I prefer not to maintain that reason is to blame for everything.",
     "author": "Poet, Wislawa Szymborska",
     "answer": "color|green|reason|blame|maintain",
-    "theme": "2020-01-24",
+    "theme": "01-24",
     "targetWord": 5,
     "column": 8,
     "row": 15,

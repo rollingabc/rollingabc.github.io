@@ -1,11 +1,11 @@
 {
     "chapter": 0,
     "level": 0,
-    "background": "64.png",
+    "background": "12-12.png",
     "motto": "Life itself is the most wonderful fairy tale.",
     "author": "Author, Hans Christian Andersen",
     "answer": "life|wonderful|tale|itself",
-    "theme": "2019-12-12",
+    "theme": "12-12",
     "targetWord": 4,
     "column": 9,
     "row": 16,

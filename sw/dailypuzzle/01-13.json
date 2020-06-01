@@ -1,11 +1,11 @@
 {
     "chapter": 0,
     "level": 0,
-    "background": "20200113.png",
+    "background": "01-13.png",
     "motto": "Peace cannot be kept by force. It can only be achieved by understanding.",
     "author": "Physicist, Albert Einstein",
     "answer": "force|kept|achieve|peace",
-    "theme": "2020-01-13",
+    "theme": "01-13",
     "targetWord": 4,
     "column": 9,
     "row": 16,
