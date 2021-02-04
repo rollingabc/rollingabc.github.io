@@ -106,4 +106,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 ## 6. CONTACT US
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact our RollingABC Data Protection Officer:  rollingabc@outlook.com . Address: CG05, Block C, Innovation Plaza, TusPark, Haidian District, Beijing, China 100084
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact our RollingABC Data Protection Officer:  rollingabc@outlook.com . Address: 80 South Bridge Road #04-02 Golden Castle Building, Singapore (058710)
